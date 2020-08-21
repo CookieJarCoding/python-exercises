@@ -1,3 +1,3 @@
-# Python Tutorial Exercises
+# Python Course Exercises
 
 This repository is intended for educational use only.
